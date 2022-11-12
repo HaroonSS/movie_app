@@ -1,9 +1,8 @@
 import React, { useState, useEffect } from "react";
-
 import MovieCard from "./MovieCard";
 import SearchIcon from "./search.svg";
 import "./App.css";
-
+//Creating APP
 const App = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [movies, setMovies] = useState([]);
