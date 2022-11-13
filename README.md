@@ -1,6 +1,6 @@
 #movie_app react project
 
-## HOw to run 
+## How to run 
 
 In the project directory, you can run:
 
